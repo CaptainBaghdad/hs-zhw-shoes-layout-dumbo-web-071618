@@ -57,9 +57,7 @@ body {
   width: 62%; /*this accounts for margin only on 1 side of the column */
 }
 
-.col-3 { /*spans across all of the space*/
 
-}
 
 [class*="col-"] {
   margin: 1%;
