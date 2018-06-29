@@ -21,6 +21,10 @@ body {
 	background: url(../images/handmadepaper.png);
 }
 
+#summer{
+  width:640px;
+}
+
 h2, h3 {
 	margin-bottom: 5px;
 }
