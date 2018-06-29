@@ -33,7 +33,7 @@ body {
 #archive{
   float:right;
   width:310px;
-  clear: 
+  clear: both;
 }
 
 h2, h3 {
