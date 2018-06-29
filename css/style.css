@@ -26,6 +26,10 @@ body {
   
 }
 
+#archive{
+  float:right;
+}
+
 h2, h3 {
 	margin-bottom: 5px;
 }
